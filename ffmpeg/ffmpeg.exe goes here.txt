@@ -1,0 +1,3 @@
+Make sure to put ffmpeg.exe in this folder 
+
+Download the latest build here: https://ffmpeg.org/download.html#build-windows
