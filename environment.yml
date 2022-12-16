@@ -11,7 +11,6 @@ dependencies:
   - colorama=0.4.6=pyhd8ed1ab_0
   - exceptiongroup=1.0.4=pyhd8ed1ab_0
   - expat=2.5.0=h1537add_0
-  - ffmpeg=5.1.2=gpl_h5b1d025_105
   - font-ttf-dejavu-sans-mono=2.37=hab24e00_0
   - font-ttf-inconsolata=3.000=h77eed37_0
   - font-ttf-source-code-pro=2.038=h77eed37_0
